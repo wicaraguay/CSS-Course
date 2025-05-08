@@ -1,0 +1,26 @@
+.link {
+    color: red;
+}
+.link:hover {
+    outline: 10px solid red;
+}
+
+.link:active {
+    outline: 10px solid blue;
+}
+
+li:first-child {
+    color: orange
+}
+li:last-child {
+    color: green
+}
+p {
+    font-size: 48px;
+}
+.description .bold{
+    color: #09f;
+}
+.secondary .bold{
+    color:blueviolet
+}
