@@ -4,10 +4,16 @@ h1 {
     /* color: hsl(60, 83%, 50%); Modern*/
     /* color: oklch(0.73 0.1672 165.6) Modern*/
     color: #09f;
-    border-width: 3px;
+    /* border-width: 3px;
     border-style: solid;
-    border-color: currentColor;
+    border-color: currentColor; */
 }
 body {
     background-color: rgb(221, 197, 197);
+}
+.link {
+    color: red;
+}
+#link {
+    color: chocolate;
 }
