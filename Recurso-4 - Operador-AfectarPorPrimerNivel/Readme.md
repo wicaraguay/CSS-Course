@@ -1,0 +1,1 @@
+### Conceptos sobre el operador donde es afectado por el primer nivel

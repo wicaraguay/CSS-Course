@@ -1,0 +1,15 @@
+/* article {
+    font-size: 24px;
+}
+hijo directo
+article > p {
+    color: blue;
+} */
+/* tilde para hermanos que aparecen despues */
+/* p ~ span {
+    color: red;
+} */
+/* justamente el que viene despues */
+p + span {
+    color: green;
+}
